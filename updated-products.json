@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Python - Readability Counts Men's Programming T-shirt",
+    "price": 39,
+    "category": "T-Shirt",
+    "image": "/images/Python.jpg",
+    "countInStock": 10
+  },
+  {
+    "name": "Accenture T-Shirt For Men",
+    "price": 39,
+    "category": "T-Shirt",
+    "image": "/images/Accenture.jpg",
+    "countInStock": 10
+  },
+  {
+    "name": "sudo apt-get install coffee - Men's T-shirt",
+    "price": 39,
+    "category": "T-Shirt",
+    "image": "/images/sudo.jpg",
+    "countInStock": 10
+  },
+  {
+    "name": "Leetcode T-Shirt For Men",
+    "price": 39,
+    "category": "T-Shirt",
+    "image": "/images/Leetcode.jpg",
+    "countInStock": 10
+  },
+  {
+    "name": "Tata Consultancy Services Tcs T-Shirt For Men",
+    "price": 39,
+    "category": "T-Shirt",
+    "image": "/images/Tata.jpg",
+    "countInStock": 10
+  },
+  {
+    "name": "Microsoft Logo Men’s Profession T-Shirt",
+    "price": 39,
+    "category": "T-Shirt",
+    "image": "/images/Microsoft.jpg",
+    "countInStock": 10
+  },
+  {
+    "name": "It's Not a Bug, It's a Feature Men's T-shirt India",
+    "price": 39,
+    "category": "T-Shirt",
+    "image": "/images/It's.jpg",
+    "countInStock": 10
+  },
+  {
+    "name": "IBM Logo T-Shirt For Men",
+    "price": 39,
+    "category": "T-Shirt",
+    "image": "/images/IBM.jpg",
+    "countInStock": 10
+  },
+  {
+    "name": "Sap Software T-Shirt For Men",
+    "price": 39,
+    "category": "T-Shirt",
+    "image": "/images/Sap.jpg",
+    "countInStock": 10
+  },
+  {
+    "name": "Cisco T-Shirt For Men",
+    "price": 39,
+    "category": "T-Shirt",
+    "image": "/images/Cisco.jpg",
+    "countInStock": 10
+  },
+  {
+    "name": "Kubernetes Men's T-Shirt",
+    "price": 39,
+    "category": "T-Shirt",
+    "image": "/images/Kubernetes.jpg",
+    "countInStock": 10
+  },
+  {
+    "name": "Life Would Be Easier, If I Had The Source Code Men's T-shirt",
+    "price": 39,
+    "category": "T-Shirt",
+    "image": "/images/Life.jpg",
+    "countInStock": 10
+  },
+  {
+    "name": "Google Logo T-Shirt For Men",
+    "price": 39,
+    "category": "T-Shirt",
+    "image": "/images/Google.jpg",
+    "countInStock": 10
+  },
+  {
+    "name": "Microsoft Logo Polo T-Shirt For Men",
+    "price": 39,
+    "category": "T-Shirt",
+    "image": "/images/Microsoft.jpg",
+    "countInStock": 10
+  },
+  {
+    "name": "Apple Developer T-Shirt for Men",
+    "price": 39,
+    "category": "T-Shirt",
+    "image": "/images/Apple.jpg",
+    "countInStock": 10
+  },
+  {
+    "name": "Tata motors  Polo T-Shirt For Men",
+    "price": 39,
+    "category": "T-Shirt",
+    "image": "/images/Tata.jpg",
+    "countInStock": 10
+  },
+  {
+    "name": "Hack The box Hacker T-shirt For Men",
+    "price": 39,
+    "category": "T-Shirt",
+    "image": "/images/Hack.jpg",
+    "countInStock": 10
+  },
+  {
+    "name": "idk, Google it Men's T-shirt",
+    "price": 39,
+    "category": "T-Shirt",
+    "image": "/images/idk,.jpg",
+    "countInStock": 10
+  },
+  {
+    "name": "Samsung Men’s Profession T-Shirt",
+    "price": 39,
+    "category": "T-Shirt",
+    "image": "/images/Samsung.jpg",
+    "countInStock": 10
+  },
+  {
+    "name": "Aws T-Shirt For Men",
+    "price": 39,
+    "category": "T-Shirt",
+    "image": "/images/Aws.jpg",
+    "countInStock": 10
+  }
+]

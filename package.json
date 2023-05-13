@@ -1,0 +1,16 @@
+{
+  "name": "web-scraping",
+  "version": "1.0.0",
+  "description": "web scraper plus image downloader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "puppeteer": "^20.2.0"
+  }
+}

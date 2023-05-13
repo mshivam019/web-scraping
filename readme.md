@@ -1,0 +1,1 @@
+I created this webscraper plus image downloader to add more products to my ecommerce project. feel free to modify it and reuse it.
